@@ -1,0 +1,1 @@
+Este es el segundo fichero de pruebas de git, desde consola de ubuntu.
